@@ -1,2 +1,0 @@
-# alanwattsclub.github.io
-Website
