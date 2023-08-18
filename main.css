@@ -25,6 +25,12 @@ a:hover {
     line-height: 1.6em;
 }
 
+
+.dark-mode {
+  background-color: black;
+  color: white;
+}
+
 .avatar {
     border-radius: 50%;
     width: 150px;
