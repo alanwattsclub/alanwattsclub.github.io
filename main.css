@@ -2,6 +2,8 @@ html {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: larger;
     font-weight: 300;
+    background-color: black;
+    color: white;
 }
 
 a {
@@ -53,7 +55,7 @@ a:hover {
 }
 
 .icons a {
-    color: black;
+    color: white;
 }
 
 .icons a:hover {
